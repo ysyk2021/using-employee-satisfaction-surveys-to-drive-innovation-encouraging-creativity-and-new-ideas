@@ -1,5 +1,4 @@
-Chapter 4: Encouraging Creative Thinking: Providing Resources and Support for Creative Thinking
-===============================================================================================
+# Providing Resources and Support for Creative Thinking
 
 Encouraging creative thinking is essential for driving innovation within organizations. In this chapter, we will explore strategies for providing resources and support for creative thinking.
 

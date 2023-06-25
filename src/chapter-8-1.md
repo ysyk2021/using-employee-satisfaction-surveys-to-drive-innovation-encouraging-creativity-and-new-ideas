@@ -1,5 +1,4 @@
-Chapter 7: Leadership Support: The Role of Leadership in Supporting Survey-Driven Innovation
-============================================================================================
+# The Role of Leadership in Supporting Survey-Driven Innovation
 
 Leadership support is essential for driving innovation within organizations, and this includes supporting survey-driven innovation. In this chapter, we will explore the role of leadership in supporting survey-driven innovation.
 

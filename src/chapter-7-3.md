@@ -1,5 +1,4 @@
-Chapter 6: Implementation: Measuring the Effectiveness of Survey-Driven Innovation Strategies
-=============================================================================================
+# Measuring the Effectiveness of Survey-Driven Innovation Strategies
 
 In this chapter, we will discuss how to measure the effectiveness of survey-driven innovation strategies. Implementing new ideas and changes within an organization can be challenging, and it is essential to evaluate the impact of these initiatives to ensure that they are successful.
 

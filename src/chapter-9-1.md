@@ -1,5 +1,4 @@
-Chapter 8: Future Directions: Innovations in Using Employee Satisfaction Surveys for Innovation
-===============================================================================================
+# Innovations in Using Employee Satisfaction Surveys for Innovation
 
 Employee satisfaction surveys have been used by organizations for decades to measure employee attitudes and perceptions towards their work environment. However, as technology advances and workplaces evolve, there are new opportunities to leverage these surveys to drive innovation within organizations.
 

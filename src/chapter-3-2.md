@@ -1,5 +1,4 @@
-Chapter 2: The Relationship between Employee Satisfaction and Innovation: The Costs of Ignoring Employee Satisfaction
-=====================================================================================================================
+# The Costs of Ignoring Employee Satisfaction
 
 Ignoring employee satisfaction can have a significant impact on an organization's ability to drive innovation. In this chapter, we will explore the costs of ignoring employee satisfaction and how it affects an organization's ability to innovate.
 

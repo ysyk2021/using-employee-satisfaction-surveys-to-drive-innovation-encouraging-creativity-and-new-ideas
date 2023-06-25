@@ -1,5 +1,4 @@
-Chapter 4: Encouraging Creative Thinking: Encouraging Experimentation and Risk-Taking
-=====================================================================================
+# Encouraging Experimentation and Risk-Taking
 
 Creative thinking is essential for driving innovation within organizations. However, encouraging employees to think creatively can be challenging. In this chapter, we will explore strategies for encouraging experimentation and risk-taking within the workplace.
 

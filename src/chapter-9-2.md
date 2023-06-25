@@ -1,5 +1,4 @@
-Chapter 8: Future Directions: Addressing New Challenges in Driving Innovation
-=============================================================================
+# Addressing New Challenges in Driving Innovation
 
 In this chapter, we will explore some of the new challenges that organizations face in driving innovation and how employee satisfaction surveys can be used to address these challenges.
 

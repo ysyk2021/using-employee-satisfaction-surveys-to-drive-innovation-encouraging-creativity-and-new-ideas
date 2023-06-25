@@ -1,5 +1,4 @@
-Chapter 7: Leadership Support: Fostering a Culture of Innovation
-================================================================
+# Fostering a Culture of Innovation
 
 Leadership support is essential for driving innovation within organizations. In this chapter, we will explore strategies for fostering a culture of innovation through strong leadership support.
 

@@ -1,5 +1,4 @@
-Chapter 5: Implementing Innovative Ideas: Creating a Process for Evaluating and Implementing Innovative Ideas
-=============================================================================================================
+# Creating a Process for Evaluating and Implementing Innovative Ideas
 
 In order to effectively drive innovation within organizations, it is important to establish a process for evaluating and implementing innovative ideas. In this chapter, we will explore strategies for creating a process for evaluating and implementing innovative ideas.
 

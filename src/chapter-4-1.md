@@ -1,5 +1,4 @@
-Chapter 3: Designing Effective Employee Satisfaction Surveys: Creating Surveys that Measure Innovation-Related Factors
-======================================================================================================================
+# Creating Surveys that Measure Innovation-Related Factors
 
 Designing effective employee satisfaction surveys is crucial for using feedback to drive innovation and encourage creativity in the workplace. In this chapter, we will explore techniques for creating surveys that measure innovation-related factors.
 

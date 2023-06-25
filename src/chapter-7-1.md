@@ -1,5 +1,4 @@
-Chapter 6: Implementation: Implementing Employee Satisfaction Surveys for Innovation
-====================================================================================
+# Implementing Employee Satisfaction Surveys for Innovation
 
 Employee satisfaction surveys are a valuable tool for driving innovation within organizations. However, implementing these surveys effectively requires careful planning and execution. In this chapter, we will explore strategies for implementing employee satisfaction surveys for innovation.
 

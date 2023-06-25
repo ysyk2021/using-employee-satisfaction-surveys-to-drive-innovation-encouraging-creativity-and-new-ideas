@@ -1,5 +1,4 @@
-Chapter 1: Defining Employee Satisfaction Surveys: Examples of Employee Satisfaction Surveys in Practice
-========================================================================================================
+# Examples of Employee Satisfaction Surveys in Practice
 
 Employee satisfaction surveys are a valuable tool for organizations to understand how their employees feel about different aspects of their work environment. In this chapter, we will define employee satisfaction surveys and provide examples of how they are used in practice.
 

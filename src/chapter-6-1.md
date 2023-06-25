@@ -1,5 +1,4 @@
-Chapter 5: Implementing Innovative Ideas: Turning Ideas into Action
-===================================================================
+# Turning Ideas into Action
 
 One of the most important steps in driving innovation within organizations is turning innovative ideas into action. In this chapter, we will explore strategies for turning ideas into action.
 
