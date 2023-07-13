@@ -1,4 +1,4 @@
-Conclusion: Summary of Key Points
+Summary of Key Points
 =================================
 
 In this book, we explored the role of employee satisfaction surveys in driving innovation within organizations. Here are the key points to remember:
