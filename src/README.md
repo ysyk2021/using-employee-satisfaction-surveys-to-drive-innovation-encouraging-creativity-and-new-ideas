@@ -8,5 +8,4 @@ In addition, the authors offer practical advice for using employee feedback to d
 
 "Using Employee Satisfaction Surveys to Drive Innovation: Encouraging Creativity and New Ideas" is a must-read for anyone interested in promoting innovation and creativity in the workplace. Whether you are a human resources professional, a manager, or an executive, this book will provide you with the tools and knowledge you need to drive innovation and achieve your organizational goals.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
