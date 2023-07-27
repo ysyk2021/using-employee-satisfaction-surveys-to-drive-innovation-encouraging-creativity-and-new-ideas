@@ -1,4 +1,4 @@
-Chapter 2: The Risks of Not Innovating
+The Risks of Not Innovating
 ======================================
 
 In today's rapidly evolving business landscape, organizations that fail to prioritize innovation put themselves at significant risk. This chapter explores the potential consequences and risks of not embracing innovation within an organization. By understanding these risks, leaders can recognize the urgent need to foster a culture of creativity and encourage new ideas.

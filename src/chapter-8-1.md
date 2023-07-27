@@ -1,4 +1,4 @@
-Chapter 8: The Role of Leadership in Supporting Survey-Driven Innovation
+The Role of Leadership in Supporting Survey-Driven Innovation
 ========================================================================
 
 Effective leadership plays a critical role in supporting survey-driven innovation within organizations. In this chapter, we will explore the key responsibilities and strategies that leaders can employ to leverage employee satisfaction surveys as a tool for driving innovation, encouraging creativity, and generating new ideas. By embracing their role as innovation champions, leaders can create an environment where survey data is used to inform decision-making, inspire change, and foster a culture of continuous innovation.

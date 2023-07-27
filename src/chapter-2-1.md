@@ -1,4 +1,4 @@
-Chapter 3: What Are Employee Satisfaction Surveys?
+What Are Employee Satisfaction Surveys?
 ==================================================
 
 Employee satisfaction surveys are valuable tools that organizations use to gather feedback from their employees regarding various aspects of their work experience. These surveys provide insights into employee perceptions, attitudes, and opinions, allowing organizations to understand the level of satisfaction and engagement among their workforce. This chapter will explore the key characteristics, benefits, and considerations associated with employee satisfaction surveys.
