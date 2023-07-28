@@ -1,4 +1,4 @@
-of Using Surveys to Drive Innovation
+Importance of Using Surveys to Drive Innovation
 ==========================================================
 
 Using surveys to drive innovation is a strategic approach that empowers organizations to tap into the collective intelligence of their employees. In this chapter, we will highlight the importance of using surveys as a tool for driving innovation, encouraging creativity, and generating new ideas. By leveraging surveys effectively, organizations can gather valuable insights, identify areas for improvement, and foster a culture of continuous innovation.
@@ -36,4 +36,4 @@ Using surveys to drive innovation helps create a culture of continuous improveme
 **Conclusion**
 --------------
 
-Using surveys as a tool to drive innovation is instrumental in cultivating a culture of creativity, encouraging new ideas, and fueling continuous improvement. By gaining employee perspectives, collecting objective data, identifying areas for improvement, engaging employees, tracking progress, and fostering a culture of continuous improvement, organizations can unlock the full potential of their workforce and drive innovation to new heights. In the following chapters, we will delve deeper into effective survey design, implementation strategies, and approaches for leveraging survey results to enhance innovation and creativity within organizations.
+Using surveys as a tool to drive innovation is instrumental in cultivating a culture of creativity, encouraging new ideas, and fueling continuous improvement. By gaining employee perspectives, collecting objective data, identifying areas for improvement, engaging employees, tracking progress, and fostering a culture of continuous improvement, organizations can unlock the full potential of their workforce and drive innovation to new heights.
