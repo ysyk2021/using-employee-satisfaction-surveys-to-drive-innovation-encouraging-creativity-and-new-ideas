@@ -1,5 +1,3 @@
-Chapter 3: Designing Effective Employee Satisfaction Surveys
-============================================================
 
 Employee satisfaction surveys are a valuable tool for organizations to understand how their employees feel about different aspects of their work environment. In this chapter, we will discuss how to design effective employee satisfaction surveys that measure innovation-related factors and gather actionable data to inform innovation strategies.
 

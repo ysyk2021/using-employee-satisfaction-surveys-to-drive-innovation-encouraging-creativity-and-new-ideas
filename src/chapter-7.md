@@ -1,5 +1,3 @@
-Chapter 6: Implementation
-=========================
 
 In this chapter, we will discuss implementation strategies for using employee satisfaction surveys to drive innovation. We will explore how to overcome barriers to effective implementation and measure the effectiveness of survey-driven innovation strategies.
 

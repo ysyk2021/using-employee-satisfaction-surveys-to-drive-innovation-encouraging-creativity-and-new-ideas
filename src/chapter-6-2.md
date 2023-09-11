@@ -1,5 +1,3 @@
-Creating a Process for Evaluating and Implementing Innovative Ideas
-==============================================================================
 
 In this chapter, we will explore the importance of creating a structured process for evaluating and implementing innovative ideas within an organization. Developing a systematic approach to assess and execute innovative concepts is crucial for driving creativity, fostering a culture of innovation, and ultimately achieving organizational growth. This chapter will guide you through the steps needed to establish an effective process for evaluating and implementing innovative ideas.
 

@@ -1,5 +1,3 @@
-Overview of Employee Satisfaction Surveys and Innovation
-===================================================================
 
 Employee satisfaction surveys are a powerful tool for driving innovation, encouraging creativity, and generating new ideas within an organization. In this chapter, we will provide an overview of employee satisfaction surveys and their role in promoting innovation. We will explore how these surveys can be designed and utilized to create a culture of continuous improvement and unleash the potential for innovation.
 

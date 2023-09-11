@@ -1,5 +1,3 @@
-Chapter 1: Defining Employee Satisfaction Surveys
-=================================================
 
 Employee satisfaction surveys are a critical tool for organizations to measure employee attitudes and perceptions towards their work environment. In this chapter, we will define employee satisfaction surveys, explore their benefits, and provide examples of how they are used in practice.
 

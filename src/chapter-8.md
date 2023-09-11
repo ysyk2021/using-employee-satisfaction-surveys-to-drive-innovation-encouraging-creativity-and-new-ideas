@@ -1,5 +1,3 @@
-Chapter 7: Leadership Support
-=============================
 
 In this chapter, we will explore the essential role that leadership plays in supporting survey-driven innovation. Effective leaders understand the benefits of fostering a culture of innovation, and they recognize the importance of addressing challenges and setbacks along the way.
 
@@ -25,5 +23,4 @@ Leadership support is crucial when it comes to addressing challenges and setback
 Leaders can address challenges and setbacks by providing guidance and support to employees. They can encourage employees to learn from their mistakes and use their experiences to improve future innovation initiatives. Additionally, leaders can work with employees to identify the root cause of challenges and develop strategies to overcome them.
 
 In conclusion, leadership support is essential for driving survey-driven innovation. Leaders who foster a culture of innovation and address challenges and setbacks can create an environment that empowers employees to generate new ideas and drive meaningful change within the organization.
-
 

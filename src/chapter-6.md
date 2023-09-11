@@ -1,5 +1,3 @@
-Chapter 5: Implementing Innovative Ideas
-========================================
 
 Generating new and innovative ideas is only the first step towards driving innovation within organizations. In order to see tangible results, these ideas must be implemented effectively. In this chapter, we will explore strategies for implementing innovative ideas.
 

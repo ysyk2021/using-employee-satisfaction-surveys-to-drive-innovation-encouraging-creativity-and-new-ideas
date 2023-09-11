@@ -1,8 +1,3 @@
-Purpose of the book
-==============================
-
-**Introduction**
-----------------
 
 Welcome to "Using Employee Satisfaction Surveys to Drive Innovation: Encouraging Creativity and New Ideas." In this book, we will explore the power of employee satisfaction surveys as a tool for fostering innovation within organizations. By leveraging the insights obtained through these surveys, organizations can create a culture that encourages creativity and generates new ideas. This chapter sets the stage by outlining the purpose and objectives of the book.
 

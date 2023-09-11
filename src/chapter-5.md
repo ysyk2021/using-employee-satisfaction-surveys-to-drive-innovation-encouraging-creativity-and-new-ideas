@@ -1,5 +1,3 @@
-Chapter 4: Encouraging Creative Thinking
-========================================
 
 Creativity is an essential component of innovation and can drive new ideas and solutions. In this chapter, we will discuss how organizations can create a culture that encourages creative thinking among employees.
 

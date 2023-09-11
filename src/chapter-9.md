@@ -1,5 +1,3 @@
-Chapter 8: Future Directions
-============================
 
 As workplaces continue to evolve, there are new opportunities to leverage employee satisfaction surveys to drive innovation and creativity within organizations. In this chapter, we will explore future directions and trends in using employee satisfaction surveys for innovation.
 

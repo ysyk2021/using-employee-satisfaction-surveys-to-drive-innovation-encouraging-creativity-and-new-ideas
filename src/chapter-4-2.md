@@ -1,5 +1,3 @@
-Gathering Actionable Data from Surveys
-===============================================
 
 In this chapter, we will focus on the importance of gathering actionable data from employee satisfaction surveys to drive innovation, encourage creativity, and generate new ideas. We will explore key strategies for collecting meaningful data and leveraging it effectively. Let's dive into the process of gathering actionable data from surveys:
 

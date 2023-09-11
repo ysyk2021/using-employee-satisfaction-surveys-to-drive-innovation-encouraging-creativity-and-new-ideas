@@ -1,5 +1,3 @@
-Measuring the Impact of Innovative Ideas
-===================================================
 
 Measuring the impact of innovative ideas is essential for organizations seeking to understand the effectiveness of their innovation initiatives and drive continuous improvement. In this chapter, we will explore various methods and metrics that can be used to measure the impact of innovative ideas. By establishing robust measurement practices, organizations can identify successful ideas, evaluate their impact, and make data-driven decisions to enhance their innovation efforts.
 

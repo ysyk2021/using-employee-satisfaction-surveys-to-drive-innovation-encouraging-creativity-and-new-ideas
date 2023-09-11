@@ -1,5 +1,3 @@
-Creating Surveys That Measure Innovation-Related Factors
-===================================================================
 
 Employee satisfaction surveys can be a powerful tool for driving innovation by gathering valuable insights and feedback from employees. In this chapter, we will explore the process of creating surveys that effectively measure innovation-related factors within an organization. By designing surveys that capture the right information, you can gain a deeper understanding of the organization's innovation landscape and identify areas for improvement. Let's dive into the key steps to create these surveys.
 

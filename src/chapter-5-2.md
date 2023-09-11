@@ -1,5 +1,3 @@
-Providing Resources and Support for Creative Thinking
-================================================================
 
 In order to drive innovation, encourage creativity, and generate new ideas within organizations, it is essential to provide employees with the necessary resources and support for creative thinking. This chapter will explore strategies for leveraging employee satisfaction surveys to identify resource gaps and establish a supportive environment that nurtures and empowers employees' creative potential.
 
